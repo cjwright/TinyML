@@ -1,3 +1,3 @@
 # TinyML
 
-Code fro the book TinyML by Warden and Situnayake
+Code from the book TinyML by Warden and Situnayake
